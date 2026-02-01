@@ -1,1 +1,27 @@
 venv/
+
+# Model outputs and datasets
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.ckpt
+*.pb
+*.onnx
+*.tflite
+*.keras
+*.safetensors
+*.bin
+*.model
+*.weights
+*.csv
+*.json
+*.jsonl
+*.parquet
+*.arrow
+*.feather
+*.tfrecord
+*.npz
+*.npy
